@@ -1,4 +1,4 @@
-# Shadcn Admin Dashboard + Diffnote
+# Shadcn Admin Dashboard + Diffnote test
 
 Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.
 
